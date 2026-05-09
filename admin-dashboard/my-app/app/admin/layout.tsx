@@ -176,9 +176,9 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
               borderRadius: 10, display: "flex", alignItems: "center",
               justifyContent: "center", fontSize: 18, fontWeight: 700, color: "white",
               boxShadow: "0 4px 12px rgba(79,110,247,0.35)",
-            }}>I</div>
+            }}>C</div>
             <div>
-              <div style={{ fontSize: 15, fontWeight: 700, color: T.text, letterSpacing: "-0.3px" }}>InfluenceHub</div>
+              <div style={{ fontSize: 15, fontWeight: 700, color: T.text, letterSpacing: "-0.3px" }}>Collabzy</div>
               <div style={{ fontSize: 10.5, color: T.textMuted, letterSpacing: "1.4px", textTransform: "uppercase" }}>Admin Panel</div>
             </div>
           </div>

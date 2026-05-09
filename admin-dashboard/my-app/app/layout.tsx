@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "InfluenceHub Admin",
+  title: "Collabzy Admin",
   description: "Admin Dashboard",
 };
 
